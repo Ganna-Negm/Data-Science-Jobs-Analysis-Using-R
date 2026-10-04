@@ -1,0 +1,141 @@
+# Data Science Jobs Analysis Using R
+
+## 📌 Project Overview
+
+This project focuses on analyzing a dataset of **Data Science job postings** using **R**.
+
+The project covers the main steps of the data analysis process, starting with **data cleaning and preparation**, followed by **Exploratory Data Analysis (EDA)** to better understand the dataset and extract useful insights about Data Science job opportunities.
+
+This project was completed as part of my training at **NTI – National Telecommunication Institute**.
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project were to:
+
+* Clean and prepare the dataset for analysis.
+* Handle inconsistencies in job titles and company names.
+* Explore the distribution of different Data Science job roles.
+* Analyze job locations, industries, and sectors.
+* Explore salary estimates and company ratings.
+* Identify patterns and trends within the job market.
+* Practice data cleaning and exploratory analysis using R.
+
+---
+
+## 🗂️ Dataset
+
+The dataset contains information about Data Science-related job postings, including:
+
+* Job Title
+* Salary Estimate
+* Job Description
+* Company Name
+* Company Rating
+* Location
+* Headquarters
+* Company Size
+* Founded Year
+* Type of Ownership
+* Industry
+* Sector
+* Revenue
+* Competitors
+
+The dataset required several cleaning steps before it could be used for analysis, especially for fields such as **Job Title** and **Company Name**.
+
+---
+
+## 🧹 Data Cleaning
+
+The data cleaning stage included:
+
+* Inspecting the dataset structure and columns.
+* Checking and handling inconsistencies in the data.
+* Cleaning **Job Titles** and standardizing similar job title variations.
+* Cleaning **Company Names** by removing unnecessary information that was included with the company names.
+* Preparing categorical columns for further analysis.
+* Checking the cleaned values and reviewing unique categories.
+
+The goal was to make the dataset more consistent and suitable for the analysis stage.
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+After cleaning the dataset, I performed **Exploratory Data Analysis** to understand the main patterns in the data.
+
+The analysis included exploring:
+
+* Most common Data Science job titles.
+* Job locations.
+* Industries and sectors.
+* Salary estimates.
+* Company ratings.
+* Different companies hiring for Data Science-related roles.
+* Skills and requirements mentioned in job descriptions.
+
+One of the observations from the analysis was that **Data Scientist** was one of the most frequently occurring job titles in the dataset.
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **R**
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* R Data Manipulation & Analysis
+
+---
+
+## 📚 What I Learned
+
+Through this project, I practiced working with R on a complete data analysis workflow, from preparing raw data to exploring and understanding the cleaned dataset.
+
+It also helped me get more practical experience with:
+
+* Data Cleaning
+* Data Exploration
+* Handling categorical data
+* Standardizing inconsistent values
+* Extracting insights from real-world datasets
+* Working with R for Data Analysis
+
+---
+
+## 📁 Project Structure
+
+```text
+Data-Science-Jobs-Analysis/
+│
+├── Dataset/
+│   └── data.csv
+│
+├── R/
+│   └── analysis.R
+│
+├── README.md
+│
+└── Outputs/
+    └── EDA results
+```
+
+---
+
+## 👩‍💻 Author
+
+**Ganna Negm**
+
+Data Analysis Learner | Power BI | SQL | Python | Excel | R
+
+---
+
+## 🙏 Acknowledgment
+
+This project was completed as part of my training at:
+
+**NTI – National Telecommunication Institute**
+
+Thank you for the training and the opportunity to practice Data Analysis through real projects.
